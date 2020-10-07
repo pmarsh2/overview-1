@@ -70,7 +70,7 @@ Service level time periods exclude anytime that is required to reload the operat
 | > 6 hours                 | 40%            |
 | > 10 hours                | 60%            |
 | > 14 hours                | 80%            |
-| > 18 hours                | 80%            |
+| > 18 hours                | 100%            |
 {: caption="Table 2. Credit based on the monthly charge for the service that is affected by the hardware replacement or upgrade" caption-side="top"}
 
 ## Claims
